@@ -1,0 +1,9 @@
+[submodule "laymui_blog/themes/arabica"]
+	path = laymui_blog/themes/arabica
+	url = https://github.com/nirocfz/arabica.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "laymui_blog/themes/ananke"]
+	path = laymui_blog/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
